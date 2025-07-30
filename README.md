@@ -1,2 +1,2 @@
-# Working-With-Object-Detection
-This is a repository for Object Classification, Object Detection, Object Segmentation, Object Tracking and CNN Object Embeddings and others
+# Basic Image Processing And Computer Vision
+This is a repository for Image Processing, Working With Images at Pixel Values, Drawing Shapes, Working with Image Libraries and More
